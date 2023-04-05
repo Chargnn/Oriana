@@ -1,2 +1,2 @@
 # Oriana
-Chrome extension
+A secure password manager created using Vue using an API for seamless synchronization across multiple browsers. With this password manager, users can safely store and manage their login credentials, credit card details, and other sensitive information. The project prioritizes security, with encryption algorithms and multi-factor authentication measures in place to ensure that users' data remains private and protected. The user interface is designed to be intuitive and user-friendly, making it easy for users to create, organize, and access their passwords from anywhere. With the convenience of browser syncing, users can access their password manager from any device, without the need for manual data transfer.
